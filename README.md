@@ -9,6 +9,10 @@
 
 与大家共勉之。
 
+## 安装
+
+- 下载 `pangu-space.popclipext-x.x.x.zip` 文件，解压 `pangu-space.popclipext` 双击安装。
+- 需要有 `Python3` 环境和 [pangu.py](https://github.com/vinta/pangu.py) 包， 一键安装 `pip install -U pangu` 。
 
 ## 插件功能
 
