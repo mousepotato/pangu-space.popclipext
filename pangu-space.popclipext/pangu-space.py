@@ -10,4 +10,4 @@ if __name__ == '__main__':
     res = pangu.spacing_text(urllib.parse.unquote(query))
     # 修改双引号为直角
     res = res.replace("“", "「").replace("”", "」")
-    print(res)
+    print(res, end="")
